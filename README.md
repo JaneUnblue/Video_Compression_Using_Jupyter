@@ -1,1 +1,1 @@
-# Video_Compression_Using_Jupyter
+Zip contains a report and code file. Used ffmpeg
